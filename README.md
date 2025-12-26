@@ -1,4 +1,4 @@
-# FreeCodeCamp Data Engineering Projects
+# FreeCodeCamp Projects
 
 Welcome to my repository for **FreeCodeCamp's Data Engineering** curriculum projects. This space is dedicated to showcasing my solutions, progress, and the technical journey as I master data processing and analysis with Python.
 
