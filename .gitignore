@@ -1,4 +1,20 @@
+# --- Python Junk ---
 __pycache__/
 *.py[cod]
-.env
+*$py.class
+.pytest_cache/
+
+# --- Environments (Crucial for Data Engineering) ---
+.venv/
 venv/
+env/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Data Engineering specifics ---
+# We ignore raw data files if they are huge (e.g., CSVs/JSONs)
+*.csv
+*.log
+.env
