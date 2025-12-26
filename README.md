@@ -11,7 +11,7 @@ This repository serves as a centralized hub for all my completed projects from t
 These projects are built and tested using a modern, robust development workflow:
 
 *   **Operating System**: Linux (Ubuntu via **WSL2** on Windows) - ensuring a powerful, production-grade logic environment.
-*   **Language**: Python 3.x
+*   **Language**: Python 3.14
 *   **AI Pair Programming**: Developed in collaboration with **Antigravity** (Google DeepMind), leveraging advanced agentic coding capabilities for planning, logic verification, and code efficiency.
 *   **Version Control**: Git & GitHub
 
