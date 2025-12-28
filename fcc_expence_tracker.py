@@ -1,3 +1,10 @@
-my_list = [1, 2]
-my_list.append(3)
-print(my_list[0])
+def add_expense(expenses, amount, category):
+    expenses.append({"amount": amount, "category": category})
+
+
+def print_expenses(expenses):
+    for expense in expenses:
+        print(f"Amount: {expense}, Category: {expense}")
+
+
+expenses = []
