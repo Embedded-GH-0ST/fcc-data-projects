@@ -11,6 +11,8 @@ def total_epenses(expenses):
     pass
 
 
-test = lambda x: x * 2
+test = map(lambda x: x * 2, [2, 3, 5, 8])
+print(sum(map(test, [2, 3, 5, 8])))
+
 
 expenses = []
