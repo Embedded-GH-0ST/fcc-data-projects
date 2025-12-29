@@ -4,7 +4,13 @@ def add_expense(expenses, amount, category):
 
 def print_expenses(expenses):
     for expense in expenses:
-        print(f"Amount: {expense}, Category: {expense}")
+        print(f"Amount: {expense['amount']}, Category: {expense['category']}")
 
+
+def total_epenses(expenses):
+    pass
+
+
+test = lambda x: x * 2
 
 expenses = []
