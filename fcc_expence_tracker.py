@@ -8,11 +8,11 @@ def print_expenses(expenses):
 
 
 def total_epenses(expenses):
+    return sum(map(lambda expense: expense["amount"], expenses))
+
+
+def filter_expenses_by_category(expenses, category):
     pass
-
-
-test = map(lambda x: x * 2, [2, 3, 5, 8])
-print(sum(map(test, [2, 3, 5, 8])))
 
 
 expenses = []
