@@ -12,7 +12,7 @@ def total_epenses(expenses):
 
 
 def filter_expenses_by_category(expenses, category):
-    pass
+    return lambda expense: expense["category"] == category, expen
 
 
 expenses = []
