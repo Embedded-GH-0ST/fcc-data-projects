@@ -27,10 +27,7 @@ These projects are built and tested using a modern, robust development workflow:
 ## 📈 Future Contributions
 
 I am committed to expanding this repository with future projects such as:
-*   Time Calculator
-*   Budget App
-*   Polygon Area Calculator
+*   Expence Tracker
+*   Luhn Algorithm
+*   case converter
 *   Probability Calculator
-
----
-*Created with ❤️ using Antigravity on Ubuntu (WSL2).*
